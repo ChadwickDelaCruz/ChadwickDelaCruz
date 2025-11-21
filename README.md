@@ -1,20 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Chadwick Dela Cruz! 
 
-Certificates
-https://courses.cognitiveclass.ai/certificates/fb5201a2e03f4fd3ae8e968942dd5a8a
+## Education  
+- **BS Computer Science**  
+  New Era University  
+  2024–Present  
 
-<!--
-**ChadwickDelaCruz/ChadwickDelaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certification  
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fb5201a2e03f4fd3ae8e968942dd5a8a)  
 
-Here are some ideas to get you started:
+## Skill Sets  
+- **Programming:** Java, JavaScript  
+- **Databases:** SQL  
+- **Tools:** Lucidchart, Eclipse, HTML  
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let’s Connect!  
+- **Email:** chxdddd@gmail.com  
