@@ -1,12 +1,13 @@
 ## Hi there 👋
 
+Certificates
+https://courses.cognitiveclass.ai/certificates/fb5201a2e03f4fd3ae8e968942dd5a8a
+
 <!--
 **ChadwickDelaCruz/ChadwickDelaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-Certificates
-https://courses.cognitiveclass.ai/certificates/fb5201a2e03f4fd3ae8e968942dd5a8a
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
