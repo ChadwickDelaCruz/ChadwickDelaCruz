@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+Certificates
+https://courses.cognitiveclass.ai/certificates/fb5201a2e03f4fd3ae8e968942dd5a8a
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
