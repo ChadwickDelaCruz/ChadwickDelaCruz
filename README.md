@@ -11,7 +11,7 @@
 ## Skill Sets  
 - **Programming:** Java, JavaScript  
 - **Databases:** SQL  
-- **Tools:** Lucidchart, Eclipse, HTML  
+- **Tools:** Lucidchart, IntelliJ, HTML  
 
 ## Let’s Connect!  
 - **Email:** chxdddd@gmail.com  
