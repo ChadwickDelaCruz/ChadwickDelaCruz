@@ -1,4 +1,3 @@
-# Hi there, I'm Chadwick Aaron Dela Cruz! 
 
 ## Education  
 - **BS Computer Science**  
